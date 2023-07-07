@@ -1,0 +1,24 @@
+nav{
+position: fixed;
+color: white;
+}
+
+header{
+    background-image: url(https://massage-theme.richardpruzek.com/wp-content/uploads/2020/02/massage26.jpg);
+    height: 100%;
+}
+
+button{
+    background-color: #f7a191;
+}
+
+.lien{
+    color: white;
+}
+
+.card{
+background-color: transparent;
+border: none;
+padding: 297px 0px, 240px;
+position: absolute;
+}

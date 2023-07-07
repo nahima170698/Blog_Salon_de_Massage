@@ -43,7 +43,7 @@
                     <button id="bouton_nul" class="btn">CONTACT</button>
 
                 </ul>
-
+            
             </ul>
 
         </nav>
@@ -67,16 +67,15 @@
         <section id="sect2">
 
             <!-- what we do OUR SERVICES -->
-            <div>
+            <div id="ensemble">
                 <div class="services">
                     <h3 class="serv">what we do</h3>
                     <h2>OUR SERVICES</h2>
-                    <!-- <img src="https://massage-theme.richardpruzek.com/wp-content/uploads/2020/02/massage12.jpg" alt="" id="logo3"> image de fond -->
                 </div>
                 <div class="proffessional">
                     <p>In publishing and graphic design, lorem ipsum is common placeholder text used to demonstrate the graphic elements of a document or</p>
-                    <div>
-                        <img src="https://massage-theme.richardpruzek.com/wp-content/uploads/2020/02/massage33.jpg" alt="">
+                    <div id="img1">
+                        <img src="https://massage-theme.richardpruzek.com/wp-content/uploads/2020/02/massage12.jpg" alt="" >
                         <h3>PROFFESSIONAL MASSAGE</h3>
                         <p></p>
                     </div>
@@ -84,21 +83,21 @@
                 <div>
                     <p></p>
                     <p></p>
-                    <div>
-                        <img src="https://massage-theme.richardpruzek.com/wp-content/uploads/2020/02/massage32.jpg" alt="">
+                    <div id="img2">
+                        <img src="https://massage-theme.richardpruzek.com/wp-content/uploads/2020/02/massage33.jpg"alt="" >
                         <h3>PROFFESSIONAL MANICURE </h3>
                         <p></p>
                     </div>
                 </div>
                 <div>
-                    <div>
-                        <img src="https://massage-theme.richardpruzek.com/wp-content/uploads/2020/02/massage33.jpg" alt="">
+                    <div id="img3">
+                        <img src="https://massage-theme.richardpruzek.com/wp-content/uploads/2020/02/massage32.jpg"alt="" >
                         <h3>MAKE-UP ARTIST</h3>
                         <p></p>
                     </div>
                 </div>
             </div>
-
+            
             <!-- what makes us unique WHY TO CHOOSE OUR SALON -->
             <div>
                 <p></p>
@@ -117,7 +116,7 @@
                     <img src="https://massage-theme.richardpruzek.com/wp-content/uploads/2020/02/massage18.png" alt="">
                 </div>
             </div>
-
+            
             <!-- Bar avec background color pink-->
             <div>
                 <div>
@@ -125,7 +124,7 @@
                     <button></button>
                 </div>
             </div>
-
+            
             <!-- Introducing Massage Studio -->
             <div>
                 <div>
@@ -136,7 +135,7 @@
                 </div>
                 <!-- <img src="https://massage-theme.richardpruzek.com/wp-content/uploads/2020/02/massage35-1.jpg" alt=""> -->
             </div>
-
+            
             <!-- 5 cartes en slide  -->
             <div>
                 <div>
@@ -165,7 +164,7 @@
                     <p></p>
                 </div>
             </div>
-
+            
             <!-- You Deserve Your Time! -->
             <div>
                 <!-- <img src="https://massage-theme.richardpruzek.com/wp-content/uploads/2020/02/massage39.jpg" alt=""> -->
@@ -174,7 +173,7 @@
                     <p></p>
                 </div>
             </div>
-
+            
             <!-- magazine OUR BEAUTY BLOG 3 cartes -->
             <div>
                 <div>
@@ -196,10 +195,10 @@
                     <button></button>
                 </div>
             </div>
-
+            
             <!-- meet our team OUR AWESOME MASSEURS 4 cartes -->
             <div>
-
+                
                 <!-- Carte -->
                 <div>
                     <div>
@@ -248,14 +247,14 @@
                         <li></li>
                     </div>
                 </div>
-
+            
             </div>
-
+        
         </section>
-
+    
     </main>
-
-
+    
+    
     <footer>
         <div id="margedufooter">
             <div id="fin_page">
@@ -270,7 +269,7 @@
                     <li><a href="">Physiotherapy <i class="fa-solid fa-arrow-right-long" style="color: transparent;"></i></a></li>
                     <li><a href="">Physiotherapy <i class="fa-solid fa-arrow-right-long" style="color: transparent;"></i></a></li>
                 </ul>
-
+                
                 <ul class="uldebas">
                     <li>
                         <h3>ABOUT US</h3>
@@ -282,7 +281,7 @@
                     <li><a href="">Our Philosophy <i class="fa-solid fa-arrow-right-long" style="color: transparent;"></i></a></li>
                     <li><a href="">Our 2020 Goals <i class="fa-solid fa-arrow-right-long" style="color: transparent;"></i></a></li>
                 </ul>
-
+                
                 <ul class="uldebas">
                     <li>
                         <h3>CONTACT US</h3>
@@ -300,7 +299,7 @@
                             helo@myspa.de</p>
                     </li>
                 </ul>
-
+                
                 <ul class="uldebas">
                     <li>
                         <h3>SUBSCRIBE</h3>
@@ -310,7 +309,7 @@
                     <li><input type="submit" placeholder="SUBSCRIBE"></li>
                 </ul>
             </div>
-
+            
             <div id="copyright">
                 <!-- Copyright -->
                 <div>
@@ -325,10 +324,10 @@
                     <i class="fa-brands fa-lg fa-youtube" style="color: #ffffff;"></i>
                 </div>
             </div>
-
+        
         </div>
-
+    
     </footer>
-</body>
+</body>&
 
 </html>
